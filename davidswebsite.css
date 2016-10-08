@@ -1,0 +1,150 @@
+body.homepage {
+	background-image: url("photo-1452716726610-30ed68426a6b.jpg");	
+	/* background-image: url("trailbg4.JPG"); */
+	background-position: top left;
+	background-size:100%;
+	background-repeat: no-repeat;
+	background-color: #1C88FC;
+}
+
+body.aboutpage {
+	background-image: url("photo-1452716726610-30ed68426a6b.jpg");	
+	/* background-image: url("trailbg4.JPG"); */
+	background-position: top left;
+	background-size:100%;
+	background-repeat: no-repeat;
+	background-color: #1C88FC;
+}
+
+body.projectspage {
+	background-image: url("photo-1452716726610-30ed68426a6b.jpg");	
+	/* background-image: url("trailbg4.JPG"); */
+	background-position: top left;
+	background-size:100%;
+	background-repeat: no-repeat;
+	background-color: #1C88FC;
+}
+
+body.contactpage {
+	background-image: url("photo-1452716726610-30ed68426a6b.jpg");	
+	/* background-image: url("trailbg4.JPG"); */
+	background-position: top left;
+	background-size:100%;
+	background-repeat: no-repeat;
+	background-color: #1C88FC;
+}
+
+body.creditspage {
+	background-image: url("photo-1452716726610-30ed68426a6b.jpg");	
+	/* background-image: url("trailbg4.JPG"); */
+	background-position: top left;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: #1C88FC;
+}
+
+header h1 {
+	color: #1C88FC;
+	float: left;
+	font-size: 50px;
+	font-family: verdana;
+	clear: both;
+	margin-left:5px;
+    margin-top:0;
+	margin-bottom:0;
+	padding:0;
+}
+
+header h2 {
+	color: #1C88FC;
+	float: left;
+	font-size: 30px;
+	font-family: verdana;
+	clear: both;
+	margin-left:5px;
+	margin-top:0;
+	margin-bottom:0;
+    padding:4px;
+}
+
+section {
+	clear: both;
+}
+
+section h2 {
+	text-align: center;
+	font-size: 90px;
+	color: #1C88FC;
+	padding: 25px;
+	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.logos {
+	text-align: center;
+}
+
+.logos img {
+	display: block;
+}
+
+li {
+	color: #1C88FC;
+	text-decoration: none;
+	font-size: 30px;
+	font-family: verdana;
+	list-style-type: none;
+	display: inline-block;
+	padding: 80px;
+}
+
+li a {
+	color: #1C88FC;
+	text-decoration: none;
+	font-size: 30px;
+	font-family: verdana;
+}
+
+footer {
+	margin-top: 80px;
+	position: absolute;
+    right: 20px;
+}
+
+footer a {
+	color: #1C88FC;
+	text-decoration: none;
+	font-size: 18px;
+	font-family: verdana;
+	}
+
+#credittext {
+	text-align: left;
+	color: #1C88FC;
+	font-size: 24px;
+	font-family: verdana;
+	font-weight: bold;
+	margin: auto;
+	background-color: #000000;
+	border-style: solid;
+    border-width: 15px;
+	border-color: #1C88FC;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#credittext a:link {
+    color: blue;
+}
+
+
+#credittext a:visited {
+    color: purple;
+}
+
+#credittext a:hover {
+    color: purple;
+}
+
+#credittext a:active {
+    color: yellow;
+}
